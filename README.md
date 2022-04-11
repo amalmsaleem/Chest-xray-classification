@@ -31,5 +31,5 @@ For 3 separate diseases 3 Densenet121 models were trained and ensembled to get p
 ## Results
 Test accuracy following this pipeline is 83.12%.
 
-![output](https://github.com/amalmsaleem/Chest-xray-classification/blob/main/Image/results.png)
+![output](https://github.com/amalmsaleem/Chest-xray-classification/blob/main/Image/result.png)
 
